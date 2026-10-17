@@ -1,0 +1,7 @@
+requests
+python-dotenv
+selenium
+playwright
+discord.py
+gspread
+oauth2client

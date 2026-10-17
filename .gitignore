@@ -1,0 +1,29 @@
+# Local credentials and browser state
+.env
+.env.*
+!.env.example
+auth.json
+credentials.json
+*credentials*.json
+*service*account*.json
+*.pem
+*.key
+*profile*/
+*session*/
+# Runtime and private records
+seen_items.txt
+seen_*.txt
+*.db
+*.db-*
+*.sqlite*
+*.log
+data/
+# Python and OS files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Retired file that contained credentials
+dl2.py
