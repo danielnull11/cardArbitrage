@@ -10,6 +10,10 @@ The project started as a rough Python script and evolved through numerous versio
 
 My favorite part of this project has been taking a real world problem and building something that can save hours of repetitive work by using cool tools like Python, APIs, and AI powered automation.
 
+## Project Video
+
+[Watch the project overview video](assets/video)
+
 ## Screenshots
 
 ![Terminal scanner output](assets/terminal.jpg)
