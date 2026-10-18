@@ -2,6 +2,14 @@
 
 Python project for finding graded trading-card listings on eBay, extracting certification information from listing images, comparing Card Ladder valuations, and sending potential deals to Discord.
 
+## Why I Started This
+
+A friend of mine who buys and sells sports cards spends hours scrolling through eBay, comparing prices, and looking for undervalued cards. I became interested in his process and, after learning more about his workflow, realized I could automate much of it.
+
+The project started as a rough Python script and evolved through numerous versions as I added new features, improved the automation, and worked through technical challenges. The system has now tracked over 100,000 eBay listings, using AI-powered image recognition and pricing data to identify potential arbitrage opportunities.
+
+My favorite part of this project has been taking a real world problem and building something that can save hours of repetitive work by using cool tools like Python, APIs, and AI powered automation.
+
 ## Files
 
 - `run_scanner.py`: Selenium Chrome login and session monitoring; entry point for the current scanner workflow.
