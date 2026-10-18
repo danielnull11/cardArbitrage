@@ -10,6 +10,12 @@ The project started as a rough Python script and evolved through numerous versio
 
 My favorite part of this project has been taking a real world problem and building something that can save hours of repetitive work by using cool tools like Python, APIs, and AI powered automation.
 
+## Screenshots
+
+![Terminal scanner output](assets/terminal.jpg)
+
+![Discord alerts](assets/discordalerts.jpg)
+
 ## Files
 
 - `run_scanner.py`: Selenium Chrome login and session monitoring; entry point for the current scanner workflow.
