@@ -10,17 +10,6 @@ The project started as a rough Python script and evolved through numerous versio
 
 My favorite part of this project has been taking a real world problem and building something that can save hours of repetitive work by using cool tools like Python, APIs, and AI powered automation.
 
-## Example Results
-
-The scanner extracts grading certification details from listing images, looks up available Card Ladder valuations, and estimates potential profit after an assumed 10% selling-cost deduction. When an opportunity passes its thresholds, it sends a Discord webhook alert.
-
-Two screenshots from a real run illustrate the workflow:
-
-- **Scanner output:** certification number extraction, Card Ladder API lookup, and an estimated 61.1% ROI opportunity.
-- **Discord alert:** a detected card listing showing asking price, valuation comparison, estimated profit, and estimated ROI.
-
-These figures are **estimates**, not verified completed trades or realized profit. Listings can be mismatched, valuations can be inaccurate, and actual resale proceeds may differ.
-
 ## Files
 
 - `run_scanner.py`: Selenium Chrome login and session monitoring; entry point for the current scanner workflow.
